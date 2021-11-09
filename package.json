@@ -1,0 +1,23 @@
+{
+  "name": "city_of_chesapeake_va",
+  "version": "1.0.0",
+  "description": "mapping Chesapeake neighborhoods with poverty estimates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/math264/City_of_Chesapeake_VA.git"
+  },
+  "author": "Michael A. Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/math264/City_of_Chesapeake_VA/issues"
+  },
+  "homepage": "https://github.com/math264/City_of_Chesapeake_VA#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "type": "module"
+}
