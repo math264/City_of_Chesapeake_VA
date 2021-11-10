@@ -18,9 +18,8 @@ Source: https://catalog.data.gov/dataset?res_format=CSV&ext_location=&_res_forma
 + poverty-estimatesF.geojson
 
 ## Final Data
-+ hoods.geojson
++ hoods.geojson (had IPR_SE data -> poverty estimates 0-999)
 + emrldcolors.json
-+ poverty-estimatesF.geojson
 
 *hoods.geojson was brought in as a geojson since the csv data did not have any lat/long values (only shapeArea etc). The two geojsons were a result of running a csv2geojson script. See below.
 
